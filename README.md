@@ -57,7 +57,7 @@ Attention ne pas tenir compte des couleurs mais plutot des schéma de cablage de
 
 
 Ensuite je suis passé à l'étape de montage. 
-J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'un  d'alimentation Sata en Y. 
+J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'une  d'alimentation Sata en Y. 
 
 <img src="../main/Pasted image 20230308112505.png"/>
 

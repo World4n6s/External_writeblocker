@@ -16,7 +16,6 @@ J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://
 
 <img src="../main/Pasted image 20230308131038.png"/>
 
-<img src="../main/Pasted image 20230308151257.png"/>
 
 <img src="../main/Pasted image 20230308131049.png"/>
 

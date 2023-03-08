@@ -24,6 +24,10 @@ J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://
 
 En faisant quelques recherches sur internet, je suis tombé sur un boitier qui me semblait adapté et qui pourrait accueillir mon bloqueur. 
 (environ 60€ sur internet)
+
+
+
+
 <img src="../main/Pasted image 20230308130428.png"/>
 
 
@@ -32,6 +36,9 @@ Ensuite, j'ai enlevé la carte d'alimentation d'origine. Car cette dernière n'a
 La Documentation Tableau précaunissait une double alimentation sur les connecteurs 1 et 2 .  Sans allez très loin, j'ai trouvé sur amazon une alimentaion correspondant à celles fournies par Tableau pour ses bloqeurs externes.
 
 (environ 20€)
+
+
+
 <img src="../main/Pasted image 20230308151523.png"/>
 
 
@@ -57,7 +64,7 @@ Attention ne pas tenir compte des couleurs mais plutot des schéma de cablage de
 
 
 Ensuite je suis passé à l'étape de montage. 
-J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'une  d'alimentation Sata en Y. 
+J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'une d'alimentation Sata en "Y". 
 
 <img src="../main/Pasted image 20230308112505.png"/>
 
@@ -67,3 +74,5 @@ J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'une  d'
 Cablage Final 
 <img src="../main/Pasted image 20230308154904.png"/>
 
+
+Enjoyed !!!!

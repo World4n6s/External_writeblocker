@@ -10,7 +10,8 @@ Du coup j'ai commencé a regarder autour de moi ce qui se faisait, allant même 
 Un rapide tour de ce qui se faisait sur le marché m'indiquait qu'il existait peu de solution en dehors du continent transatlantique. 
 
 J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://security.opentext.com/tableau/hardware/details/t356789iu)
-<img src="20230308112143.png"/>
+
+<img src="../20230308112143.png"/>
 ![[Pasted image 20230308112143.png]]
 
 

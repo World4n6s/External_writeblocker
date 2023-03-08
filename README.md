@@ -17,6 +17,7 @@ J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://
 <img src="../main/Pasted image 20230308131038.png"/>
 
 <img src="../main/Pasted image 20230308151257.png"/>
+
 <img src="../main/Pasted image 20230308131049.png"/>
 
 
@@ -41,6 +42,9 @@ La Documentation Tableau précaunissait une double alimentation sur les connecte
 
 
 après avoir dénudé et vérifié les tensions de sorties du transformateur, dans mon agloméra de cables, j'ai récupèré un adaptateur Molex/sata que j'ai soudé à la sortie du transformateur. 
+
+
+
 <img src="../main/Pasted image 20230308131156.png"/>
 
 <img src="../main/Pasted image 20230308131852.png"/>

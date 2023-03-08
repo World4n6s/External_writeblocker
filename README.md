@@ -12,55 +12,54 @@ Un rapide tour de ce qui se faisait sur le marché m'indiquait qu'il existait pe
 J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://security.opentext.com/tableau/hardware/details/t356789iu)
 
 <img src="../main/Pasted image 20230308112143.png"/>
-![[Pasted image 20230308112143.png]]
 
 
+<img src="../main/Pasted image 20230308131038.png"/>
 
-![[Pasted image 20230308131038.png]]
+<img src="../main/Pasted image 20230308151257.png"/>
+<img src="../main/Pasted image 20230308131049.png"/>
 
-![[Pasted image 20230308151257.png]]
-![[Pasted image 20230308131049.png]]
 
 
 En faisant quelques recherches sur internet, je suis tombé sur un boitier qui me semblait adapté et qui pourrait accueillir mon bloqueur. 
 (environ 60€ sur internet)
+<img src="../main/Pasted image 20230308130428.png"/>
 
-![[Pasted image 20230308130428.png]]
 
 Ensuite, j'ai enlevé la carte d'alimentation d'origine. Car cette dernière n'apportait pas assez de puissance pour un fonctionnement optimal.
 
 La Documentation Tableau précaunissait une double alimentation sur les connecteurs 1 et 2 .  Sans allez très loin, j'ai trouvé sur amazon une alimentaion correspondant à celles fournies par Tableau pour ses bloqeurs externes.
 
 (environ 20€)
-
-![[Pasted image 20230308151523.png]]
-
+<img src="../main/Pasted image 20230308151523.png"/>
 
 
-![[Pasted image 20230308132042.png]]
+
+<img src="../main/Pasted image 20230308132042.png"/>
 
 
 
 
 après avoir dénudé et vérifié les tensions de sorties du transformateur, dans mon agloméra de cables, j'ai récupèré un adaptateur Molex/sata que j'ai soudé à la sortie du transformateur. 
+<img src="../main/Pasted image 20230308131156.png"/>
 
-![[Pasted image 20230308131156.png]]
-![[Pasted image 20230308131852.png]]
+<img src="../main/Pasted image 20230308131852.png"/>
+
 
 ```
 Attention ne pas tenir compte des couleurs mais plutot des schéma de cablage des connecteurs. 
 ```
+<img src="../main/Pasted image 20230308152206.png"/>
 
-![[Pasted image 20230308152206.png]]
 
 Ensuite je suis passé à l'étape de montage. 
 J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'un  d'alimentation Sata en Y. 
 
+<img src="../main/Pasted image 20230308112505.png"/>
 
-![[Pasted image 20230308112505.png]]
 
 
 
 Cablage Final 
+<img src="../main/Pasted image 20230308154904.png"/>
 
-![[Pasted image 20230308154904.png]]

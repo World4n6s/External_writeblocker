@@ -75,7 +75,7 @@ J'ai relié ma prise d'alimentatioin Sata à mon bloqueur par le biais d'une d'a
 Câblage Final 
 
 
-<img src="../img/main/Pasted image 20230308154904.png"/>
+<img src="../main/img/Pasted image 20230308154904.png"/>
 
 
 Enjoyed !!!!

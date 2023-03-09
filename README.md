@@ -1,4 +1,4 @@
-Depuis un certain temps maintenant, je cherchais une solution. Comment aller faire des analyses Forensiques, hors de mon bureau, sans pour autant être obligé de tout transporter avec un semi-remorque.       
+Depuis un certain temps maintenant, je me demandais comment aller faire des analyses forensiques, hors de mon bureau, sans pour autant être obligé de tout transporter avec un semi-remorque.       
 Trouver une solution polyvalente. (Station fixe/ordinateur Portable)
 
 C'est au détour d'un salon que j'ai découvert la solution. Chez un de nos partenaires, était commercialisé un boitier avec alimentation et ventillateur intégrés et  équipé d'un bloqueur T356789iu.                 

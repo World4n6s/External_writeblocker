@@ -34,7 +34,7 @@ En faisant quelques recherches sur internet, je suis tombé sur un boitier qui m
 
 Ensuite, j'ai enlevé la carte d'alimentation d'origine. Car cette dernière n'apportait pas assez de puissance pour un fonctionnement optimal.
 
-La Documentation Tableau précaunissait une double alimentation sur les connecteurs 1 et 2 .  Sans allez très loin, j'ai trouvé sur amazon une alimentaion correspondant à celles fournies par Tableau pour ses bloqeurs externes.
+La Documentation Tableau précaunissait une double alimentation sur les connecteurs **1** et **2**.  Sans allez très loin, j'ai trouvé sur amazon une alimentaion correspondant à celles fournies par Tableau pour ses bloqeurs externes.
 
 *(environ 20€)*
 
@@ -78,4 +78,4 @@ Câblage Final
 <img src="../main/img/Pasted image 20230308154904.png"/>
 
 
-Enjoyed !!!!
+### Enjoyed !!!!

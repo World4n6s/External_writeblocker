@@ -6,7 +6,7 @@ C'est au détour d'un salon que j'ai découvert la solution. Chez un de nos part
 J'ai cru m'évanouir lorsque j'ai eu connaissance du prix. 
 
 
-Du coup j'ai commencé a regarder autour de moi ce qui se faisait, allant même à prendre contact avec  la maison mère de la marque du bloqueur. Cependant je me suis retrouvé confronté à un problème car cette dernière me renvoyait vers ses partenaires commerciaux. 
+Du coup j'ai commencé par regarder autour de moi ce qui se faisait, allant même à prendre contact avec  la maison mère de la marque du bloqueur. Cependant je me suis retrouvé confronté à un problème car cette dernière me renvoyait vers ses partenaires commerciaux. 
 Un rapide tour de ce qui se faisait sur le marché m'indiquait qu'il existait peu de solution en dehors du continent transatlantique. 
 
 J'ai alors récupéré les caractéristiques du bloqueur sur le site : (https://security.opentext.com/tableau/hardware/details/t356789iu)

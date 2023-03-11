@@ -59,7 +59,7 @@ après avoir dénudé et vérifié les tensions de sorties du transformateur, da
 
 
 ```
-Attention ne pas tenir compte des couleurs mais plutot des schéma de cablage des connecteurs. 
+Attention ne pas tenir compte des couleurs mais plutot des schémas de cablage des connecteurs. 
 ```
 <img src="../main/img/Pasted image 20230308152206.png"/>
 
